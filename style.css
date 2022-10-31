@@ -1,0 +1,147 @@
+body {
+  font-family: "Montserrat";
+  background: white;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1024px;
+  justify-content: center;
+  margin: 0 auto;
+  background-color: white;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+aside {
+  width: 370px;
+  background-color: #1e2939;
+}
+.cv-photo {
+  margin: 25px 0 0 0;
+}
+.header-secondary {
+  color: #ffffff;
+}
+.contact-link {
+  color: #ffffff;
+  font-size: 14px;
+  line-height: 24px;
+}
+.bolt {
+  font-weight: 700;
+}
+.list-secondary {
+  color: #fb6d3a;
+  font-size: 14px;
+  line-height: 24px;
+  margin-left: 0;
+  padding-left: 0;
+  list-style-position: inside;
+}
+.secondary-item {
+  color: #ffffff;
+}
+.tech-skils-blok {
+  margin-top: 47px;
+  margin-left: 40px;
+}
+.contact-blok {
+  margin-top: 51px;
+  margin-left: 40px;
+}
+main {
+  padding-left: 88px;
+  padding-top: 102px;
+  padding-bottom: 102px;
+  padding-right: 88px;
+}
+.main-description {
+  width: 400px;
+}
+.job-title {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+}
+.name {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 55px;
+}
+.description-as {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  margin-bottom: 40px;
+}
+.projects {
+  width: 485px;
+  margin-bottom: 51px;
+}
+.list-primery {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+  padding-left: 0;
+  list-style-position: inside;
+}
+.primery-item {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  text-decoration-line: underline;
+  color: #595959;
+  text-decoration: none;
+}
+.header-primary {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000000;
+  margin-bottom: 12px;
+}
+.header-secondary {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: white;
+}
+.orange {
+  color: #fb6d3a;
+}
+.job-data {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+}
+.freelance-item {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  margin-left: 0;
+  padding-left: 0;
+  list-style-position: inside;
+}
+.work-experience-blok {
+  width: 525px;
+}
+.h4 {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+}
